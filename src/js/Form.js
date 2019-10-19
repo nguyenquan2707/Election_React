@@ -7,15 +7,15 @@ class from extends React.Component {
         event.preventDefault()
         this.props.castVote(this.candidateId.value)
       }}>
-        <div class='form-group'>
+        <div className='form-group'>
           <label>Select Candidate</label>
-          <select ref={(input) => this.candidateId = input} class='form-control'>
+          <select ref={(input) => this.candidateId = input} className='form-control'>
             {this.props.candidates.map((candidate) => {
               return <option value={candidate.id}>{candidate.name}</option>
             })}
           </select>
         </div>
-        <button type='submit' class='btn btn-primary'>Vote</button>
+        <button type='submit' className='btn btn-primary'>Vote</button>
         <hr />
       </form>
     )
