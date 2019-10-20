@@ -2607,12 +2607,12 @@
         }
       },
       "links": {},
-      "address": "0x478AEE6ca1cF694F94395E94480171dE491e5e42",
-      "transactionHash": "0xac25f366c0e6bda116724e07a8d1a85e19fcfeb8b843acb31bae5ee6847c1d2a"
+      "address": "0xD98CA526F83F77CdbdB74C53b2936021c6a554d1",
+      "transactionHash": "0x7cb2388e67775931df4df8f8ed4015f2e27c9da60bcc5deb6d23d3be8d575b54"
     }
   },
   "schemaVersion": "3.0.16",
-  "updatedAt": "2019-10-19T18:06:00.422Z",
+  "updatedAt": "2019-10-20T07:16:56.786Z",
   "devdoc": {
     "methods": {}
   },

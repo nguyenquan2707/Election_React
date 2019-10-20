@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Web3 from 'web3'
-import TruffleContract from 'truffle-contract'
+import Web3 from 'web3' // for web3
+import TruffleContract from 'truffle-contract' // for truffle-contract using in App.js
 import Election from '../../build/contracts/Election.json'
 import Content from './Content'
 import 'bootstrap/dist/css/bootstrap.css'
