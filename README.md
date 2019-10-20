@@ -8,3 +8,5 @@ $ npm install
 $ npm install -g webpack webpack-cli
 $ npm run start
 ```
+
+Project start at localhost:8080
